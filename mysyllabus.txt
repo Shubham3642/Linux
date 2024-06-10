@@ -1,0 +1,4 @@
+Linux Syllabus 
+What is Linux.
+What are the basics Command.
+How to create dir.
